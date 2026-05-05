@@ -6,8 +6,8 @@
 
 <br/>
 
-<a href="mailto:amanprabhat438@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=00ff88"/>
+<a href="https://mail.google.com/mail/?view=cm&to=amanprabhat438@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-00FF88?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 <a href="https://www.linkedin.com/in/aman-prabhat-b75735325/">
   <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=00ff88"/>
@@ -56,7 +56,7 @@ Code + AI + 3D Development.
 
 ---
 
-## ⚡ `// ARSENAL`
+## ⚡`ARSENAL`
 
 <div align="center">
 
@@ -166,22 +166,11 @@ Projects  ━━━━━━━━━━━━━━━━━━  Building soon
 
 ---
 
-## 💡 Personal Motto
-
-<div align="center">
-
-```txt
-"Learn deeply. Build creatively. Improve daily."
-```
-
-</div>
-
----
 
 
 
 
-## 📡 `// CONNECT`
+## 📡 `CONNECT`
 
 <div align="center">
 
