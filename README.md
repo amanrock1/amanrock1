@@ -7,7 +7,7 @@
 <br/> 
 
 <a href="https://mail.google.com/mail/?view=cm&to=amanprabhat438@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-00FF88?style=for-the-badge&logo=gmail&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Gmail-0f2027?style=for-the-badge&logo=gmail&logoColor=00ff88"/>
 </a>
 <a href="https://www.linkedin.com/in/aman-prabhat-b75735325/">
   <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=00ff88"/>
@@ -18,7 +18,6 @@
 <a href="https://www.instagram.com/aman_kumar._.18/">
   <img src="https://img.shields.io/badge/Instagram-0f2027?style=for-the-badge&logo=instagram&logoColor=00ff88"/>
 </a>
-
 </div>
 
 ---
@@ -174,11 +173,18 @@ Projects  ━━━━━━━━━━━━━━━━━━  Building soon
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/aman-prabhat-b75735325/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-00FF41?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/leetcode_kumar/)
-[![Instagram](https://img.shields.io/badge/Instagram-00FF41?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/aman_kumar._.18/)
-[![Gmail](https://img.shields.io/badge/Gmail-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:amanprabhat438@gmail.com)
-
+<a href="https://mail.google.com/mail/?view=cm&to=amanprabhat438@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0f2027?style=for-the-badge&logo=gmail&logoColor=00ff88"/>
+</a>
+<a href="https://www.linkedin.com/in/aman-prabhat-b75735325/">
+  <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=00ff88"/>
+</a>
+<a href="https://leetcode.com/u/leetcode_kumar/">
+  <img src="https://img.shields.io/badge/LeetCode-0f2027?style=for-the-badge&logo=leetcode&logoColor=00ff88"/>
+</a>
+<a href="https://www.instagram.com/aman_kumar._.18/">
+  <img src="https://img.shields.io/badge/Instagram-0f2027?style=for-the-badge&logo=instagram&logoColor=00ff88"/>
+</a>
 </div>
 
 ---
