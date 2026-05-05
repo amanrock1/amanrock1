@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=850&lines=Building+with+Code+%2B+Creativity;Learning+AI+and+Machine+Learning;Exploring+3D+Worlds+with+Blender%2C+Unity+and+Unreal;Practicing+DSA+Everyday" />
 
-<br/>
+<br/> 
 
 <a href="https://mail.google.com/mail/?view=cm&to=amanprabhat438@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-00FF88?style=for-the-badge&logo=gmail&logoColor=black"/>
