@@ -134,21 +134,35 @@ Code + AI + 3D Development.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=voxtube&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=Argicycle&theme=github_dark" />
+<a href="https://github.com/amanrock1/voxtube">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=voxtube&theme=github_dark" />
+</a>
+
+<a href="https://github.com/amanrock1/Argicycle">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=Argicycle&theme=github_dark" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=SquadUp&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=aman_portfolio&theme=github_dark" />
+<a href="https://github.com/amanrock1/SquadUp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=SquadUp&theme=github_dark" />
+</a>
+
+<a href="https://github.com/amanrock1/aman_portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=aman_portfolio&theme=github_dark" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=amanrock1&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=360-virtual-tour-&theme=github_dark" />
+<a href="https://github.com/amanrock1/amanrock1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=amanrock1&theme=github_dark" />
+</a>
+
+<a href="https://github.com/amanrock1/360-virtual-tour-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=360-virtual-tour-&theme=github_dark" />
+</a>
 
 </div>
-
 ---
 
 ## 📈 Activity Graph
