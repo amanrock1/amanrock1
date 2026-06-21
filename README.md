@@ -130,12 +130,22 @@ Code + AI + 3D Development.
 
 </div>
 
-
-## 🏆 GitHub Trophies
+## 🚀 Top Repositories
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=amanrock1&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=voxtube&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=Argicycle&theme=github_dark" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=SquadUp&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=aman_portfolio&theme=github_dark" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=amanrock1&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=360-virtual-tour-&theme=github_dark" />
 
 </div>
 
