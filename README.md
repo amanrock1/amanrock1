@@ -134,33 +134,18 @@ Code + AI + 3D Development.
 
 <div align="center">
 
-<a href="https://github.com/amanrock1/voxtube">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=voxtube&theme=github_dark" />
-</a>
-
-<a href="https://github.com/amanrock1/Argicycle">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=Argicycle&theme=github_dark" />
-</a>
+[![voxtube](https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=voxtube&theme=github_dark)](https://github.com/amanrock1/voxtube)
+[![Argicycle](https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=Argicycle&theme=github_dark)](https://github.com/amanrock1/Argicycle)
 
 <br/><br/>
 
-<a href="https://github.com/amanrock1/SquadUp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=SquadUp&theme=github_dark" />
-</a>
-
-<a href="https://github.com/amanrock1/aman_portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=aman_portfolio&theme=github_dark" />
-</a>
+[![SquadUp](https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=SquadUp&theme=github_dark)](https://github.com/amanrock1/SquadUp)
+[![aman_portfolio](https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=aman_portfolio&theme=github_dark)](https://github.com/amanrock1/aman_portfolio)
 
 <br/><br/>
 
-<a href="https://github.com/amanrock1/amanrock1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=amanrock1&theme=github_dark" />
-</a>
-
-<a href="https://github.com/amanrock1/360-virtual-tour-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=360-virtual-tour-&theme=github_dark" />
-</a>
+[![amanrock1](https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=amanrock1&theme=github_dark)](https://github.com/amanrock1/amanrock1)
+[![360-virtual-tour](https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=360-virtual-tour-&theme=github_dark)](https://github.com/amanrock1/360-virtual-tour-)
 
 </div>
 ---
