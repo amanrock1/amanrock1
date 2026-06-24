@@ -37,7 +37,7 @@ Code + AI + 3D Development.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -55,7 +55,7 @@ Code + AI + 3D Development.
 
 ---
 
-## ⚡`ARSENAL`
+## `ARSENAL`
 
 <div align="center">
 
@@ -87,7 +87,7 @@ Code + AI + 3D Development.
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```txt
 [01] Strengthening DSA fundamentals
@@ -112,7 +112,7 @@ Code + AI + 3D Development.
 
 ---
 
-## 📊 Coding Stats
+##  Coding Stats
 
 <div align="center">
 
@@ -124,13 +124,13 @@ Code + AI + 3D Development.
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanrock1&theme=github_dark" />
+
 
 
 
 </div>
 
-## 🚀 Top Repositories
+##  Top Repositories
 
 <div align="center">
 
@@ -161,7 +161,7 @@ Code + AI + 3D Development.
 
 ---
 
-## 🧩 Learning Roadmap
+##  Learning Roadmap
 
 ```txt
 DSA  ━━━━━━━━━━━━━━━━━━━━━━━  Practicing
@@ -178,7 +178,7 @@ Projects  ━━━━━━━━━━━━━━━━━━  Building soon
 
 
 
-## 📡 `CONNECT`
+##  `CONNECT`
 
 <div align="center">
 
