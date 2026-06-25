@@ -145,12 +145,12 @@ Code + AI + 3D Development.
 <br/><br/>
 
 [![amanrock1](https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=amanrock1&theme=github_dark)](https://github.com/amanrock1/amanrock1)
-[![360-virtual-tour](https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=360-virtual-tour-&theme=github_dark)](https://github.com/amanrock1/360-virtual-tour-)
+[![360-virtual-tour](https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=360-virtual-tour-&theme=github_dark)](https://github.com/amanrock1/360-VIRTUAL-CAMPUR-TOUR)
 
 </div>
 ---
 
-## 📈 Activity Graph
+##  Activity Graph
 
 
 <div align="center">
