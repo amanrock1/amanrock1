@@ -22,7 +22,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```txt
 Hi, I am Aman Kumar Prabhat.
