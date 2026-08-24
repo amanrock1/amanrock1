@@ -86,69 +86,39 @@ Code + AI + 3D Development.
 </div>
 
 ---
-
-##  Current Focus
-
-```txt
-[01] Strengthening DSA fundamentals
-[02] Practicing coding problems regularly
-[03] Learning AI and Machine Learning
-[04] Creating 3D assets and environments
-[05] Exploring Unity and Unreal Engine
-[06] Combining AI with 3D interactive experiences
-```
-
----
-
-## 🚀 What I Want To Build
-
-```txt
-> AI-powered 3D applications
-> Interactive 3D environments
-> Game prototypes
-> Machine Learning mini projects
-> Useful real-world tools
-```
-
----
-
-##  Coding Stats
+##  GitHub Activity
 
 <div align="center">
+  <div style="position: relative; width: 100%;">
+    <p align="center">
+      <img src="https://yourinsights.vercel.app/api/insight?username=amanrock1&theme=github_dark&graph=true&languages=true&streak=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+    </p>
+  </div>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=amanrock1&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="160"/>
+---
 
-<br/><br/>
+##  Competitive Programming
 
-<img src="https://leetcard.jacoblin.cool/leetcode_kumar?theme=dark&font=Fira%20Code&ext=contest" />
+<table>
+  <tr>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/leetcode_kumar?theme=wtf&font=Kodchasan&ext=heatmap" height="400">
+    </td>
+    <td>
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Amankumar18&theme=dark&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&bg_color=0d1117" height="400">
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
-
+---
 
 
 
 
 </div>
 
-##  Top Repositories
 
-<div align="center">
-
-[![voxtube](https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=voxtube&theme=github_dark)](https://github.com/amanrock1/voxtube)
-[![Argicycle](https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=Argicycle&theme=github_dark)](https://github.com/amanrock1/Argicycle)
-
-<br/><br/>
-
-[![SquadUp](https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=SquadUp&theme=github_dark)](https://github.com/amanrock1/SquadUp)
-[![aman_portfolio](https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=aman_portfolio&theme=github_dark)](https://github.com/amanrock1/aman_portfolio)
-
-<br/><br/>
-
-[![amanrock1](https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=amanrock1&theme=github_dark)](https://github.com/amanrock1/amanrock1)
-[![360-virtual-tour](https://github-readme-stats.vercel.app/api/pin/?username=amanrock1&repo=360-virtual-tour-&theme=github_dark)](https://github.com/amanrock1/360-VIRTUAL-CAMPUR-TOUR)
-
-</div>
----
 
 ##  Activity Graph
 
