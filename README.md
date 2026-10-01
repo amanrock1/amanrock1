@@ -163,10 +163,7 @@ Projects  ━━━━━━━━━━━━━━━━━━  Building soon
 </a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=amanrock1&label=PROFILE%20VIEWS&color=00ff88&style=for-the-badge" />
-
-<img src="https://komarev.com/ghpvc/?username=amanrock1&label=PROFILE%20VIEWS&color=00ff88&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=amanrock1&label=PROFILE%20VIEWS&color=00ff88&style=for-the-badge&base=100" />
 </div>
 
 ---
