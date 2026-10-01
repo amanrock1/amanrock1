@@ -161,9 +161,12 @@ Projects  ━━━━━━━━━━━━━━━━━━  Building soon
 <a href="https://leetcode.com/u/leetcode_kumar/">
   <img src="https://img.shields.io/badge/LeetCode-0f2027?style=for-the-badge&logo=leetcode&logoColor=00ff88"/>
 </a>
-<a href="https://www.instagram.com/aman_kumar._.18/">
-  <img src="https://img.shields.io/badge/Instagram-0f2027?style=for-the-badge&logo=instagram&logoColor=00ff88"/>
-</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=amanrock1&label=PROFILE%20VIEWS&color=00ff88&style=for-the-badge" />
+
+<img src="https://komarev.com/ghpvc/?username=amanrock1&label=PROFILE%20VIEWS&color=00ff88&style=flat-square" />
 </div>
 
 ---
