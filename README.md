@@ -122,6 +122,14 @@ Code + AI + 3D Development.
 
 ##  Activity Graph
 
+## `OPEN SOURCE`
+
+### Merged contributions
+
+<!-- OSS:START -->
+<!-- OSS:END -->
+
+---
 
 <div align="center">
 
