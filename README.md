@@ -127,6 +127,9 @@ Code + AI + 3D Development.
 ### Merged contributions
 
 <!-- OSS:START -->
+| Project | Contribution | PR | Merged |
+|---|---|---|---|
+| [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) |    content: add new cultural etiquette tip | [#31749](https://github.com/lingdojo/kana-dojo/pull/31749) | 2026-10-06 |
 <!-- OSS:END -->
 
 ---
