@@ -129,6 +129,7 @@ Code + AI + 3D Development.
 <!-- OSS:START -->
 | Project | Contribution | PR | Merged |
 |---|---|---|---|
+| [hexojs/hexo](https://github.com/hexojs/hexo) | fix(open_graph): skip image paths that cannot be resolved to a URL | [#5830](https://github.com/hexojs/hexo/pull/5830) | 2026-10-17 |
 | [smaramwbc/statewave-grounded-shop-assistant](https://github.com/smaramwbc/statewave-grounded-shop-assistant) | fix(core): dedupe only against the newest episode per source | [#3](https://github.com/smaramwbc/statewave-grounded-shop-assistant/pull/3) | 2026-10-16 |
 | [HarjjotSinghh/helicon](https://github.com/HarjjotSinghh/helicon) | Say "1 call" instead of "1 calls" on the Usage page | [#114](https://github.com/HarjjotSinghh/helicon/pull/114) | 2026-10-07 |
 | [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) |    content: add new cultural etiquette tip | [#31749](https://github.com/lingdojo/kana-dojo/pull/31749) | 2026-10-06 |
